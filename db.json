@@ -6,4 +6,8 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" }
+  ],
+  "selfservice": [
+  { "Start_date": "2019-07-24", "End_date": "2019-12-31", "Frequency": "day" }
+
 }
